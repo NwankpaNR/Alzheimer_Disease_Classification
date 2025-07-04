@@ -1,3 +1,5 @@
+# Comparative Analysis of ResNet18, Inception_V3 and Custom CNN(Alzheimer_Det) on Alzheimer's Disease Classification using MRI scans
+
 Objective: Comparative analysis of CNN architectures for Alzheimer's disease detection
 
 Technologies: Deep Learning, CNN, Transfer Learning (ResNet18, Inception V3)
